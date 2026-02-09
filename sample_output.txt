@@ -1,0 +1,9 @@
+--- AGENT STARTUP ---
+>>> INITIALIZING AWS STRAND: FUEL_OPT_BATCH_01 <<<
+>>> STRAND PROCESSING COMPLETE <<<
+>>> DASHBOARD GENERATED: index.html <<<
+
+--- MCP STREAM ---
+{"protocol":"MCP-2.0","flight":"AI101","alert":"Descend 2000ft to minimize drag"}
+{"protocol":"MCP-2.0","flight":"AI202","alert":"Maintain Flight Level; tailwind assist optimal"}
+{"protocol":"MCP-2.0","flight":"UK303","alert":"No deviation required"}
